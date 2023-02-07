@@ -1,0 +1,36 @@
+*{
+
+    text-align: center;    
+}
+    
+body {
+    
+    text-align: center;   
+}
+    
+    /* le style */
+    
+body {
+      margin: auto;
+      width: 640px; 
+      padding: 50px;
+      font-family: 'Lexend Deca', sans-serif; 
+      color: #2E475D;    
+}
+
+p {
+    font-family: arial;
+    color: white;
+  }
+h1{
+    color: #1c933d;
+    font-family: arial;
+    text-decoration-line: underline;
+  
+}
+h2{
+    font-family: arial;
+    color: #1c933d;
+    text-decoration-line: underline;
+
+}
